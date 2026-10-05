@@ -1,0 +1,2 @@
+# add to the config interface 'lan' clause:
+list dns '192.168.1.1'

@@ -1,0 +1,3 @@
+add to the Allow-Ping block:
+	option limit		10/sec
+	option limit_burst	20
